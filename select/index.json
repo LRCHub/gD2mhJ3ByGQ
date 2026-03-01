@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "群青日和",
+  "base_artist": "東京事変",
+  "createdAt": "2026-03-01T14:52:13.395056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "群青日和",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_群青日和_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gunjō Biyori [群青日和]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Gunjō_Biyori_[群青日和]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "群青日和",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_群青日和_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "群青日和",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/04_群青日和_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "群青日和",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_群青日和_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "群青日和",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/06_群青日和_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gunjō Biyori (群青日和)",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/07_Gunjō_Biyori_(群青日和)_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "群青日和",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_群青日和_東京事変.txt"
+    }
+  ]
+}
